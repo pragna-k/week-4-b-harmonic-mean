@@ -5,7 +5,7 @@ for(i in n)
 {
   sum=sum+1/i
 }
-hm=l/sum
+hm=l/sum21
 hm
 
 
